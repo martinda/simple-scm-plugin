@@ -1,0 +1,10 @@
+# Vim
+Session.vim
+*.swp
+
+# Gradle
+build
+.gradle
+
+# Maven
+target
