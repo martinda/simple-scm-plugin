@@ -1,7 +1,7 @@
-A Simple skeleton SCM plugin for Jenkins
+A simple skeleton SCM plugin for Jenkins
 ====
 
-Thus plugin is a simple skeleton of an SCM plugin for [Jenkins](http://jenkins-ci.org),
+This plugin is a simple skeleton of an SCM plugin for [Jenkins](http://jenkins-ci.org),
 that you can build using Gradle 2.9, or maven.
 
 This work is based on two tutorials:
